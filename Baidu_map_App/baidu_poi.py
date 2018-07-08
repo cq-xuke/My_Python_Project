@@ -1,7 +1,8 @@
-mport requests
 from urllib.parse import urlencode
 import json
 import math
+
+import requests
 import xlwings as xw
 import numpy as np
 
